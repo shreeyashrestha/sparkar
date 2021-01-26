@@ -41,7 +41,7 @@ h1
 }
 .footer
 {
-	background-color: white;
+	background-color: black;
 	left:0;
 	bottom:0;
 	width:100%;
@@ -93,13 +93,13 @@ footer
 {
 	font-size: 12px;
 	text-decoration:none;
-	color: black;
+	color: #F2F1EB;
 }
 .profile a:hover
 {
 	text-decoration:none;
-	background-color:black;
-	color:#F2F1EB;
+	background-color:#F2F1EB;
+	color:black;
 }
 
 
