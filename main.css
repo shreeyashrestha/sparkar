@@ -246,3 +246,12 @@ transition: 1s ease;
 {
 	background-color: black;color:#F2F1EB;
 }	
+
+.description
+{
+	font-size: 18px; 
+	margin:5px;
+	 padding:0 8px 0 10px; 
+	 text-align:justify; 
+	 line-height: 1.6;
+}
