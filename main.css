@@ -8,7 +8,13 @@ body
 	margin: 0;
 	font-family: 'Montserrat', sans-serif;
 	background-color: #F2F1EB;
+     overflow-x: hidden;
+   overflow-y: scroll;
 }
+
+body::-webkit-scrollbar { 
+   display: none; 
+} 
 h1
 {	font-family: 'Montserrat Alternates', sans-serif;
 	font-size: 8vw;
